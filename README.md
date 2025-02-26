@@ -1,9 +1,5 @@
-# React + Vite
+This is a simple joke app built with React that fetches jokes from an API. It displays a joke setup, and after clicking a button, you can reveal the punchline. You can also get another joke at any time.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features: Fetches jokes from the JokeAPI. Displays the joke setup. Reveals the punchline when you click a button. Allows you to get another joke.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# joke-app
+Technologies Used: React CSS for styling JokeAPI for fetching jokes
